@@ -4,7 +4,7 @@
   <groupId>DataDrivenAutomation</groupId>
   <artifactId>DataDrivenAutomation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>
+  <!-- <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
@@ -16,7 +16,7 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>
+  </build> -->
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
       <dependency>

@@ -25,7 +25,7 @@ public class TC_001_ValidateLoginFunctionality {
         LoginPage loginPage = new LoginPage(driver);
         loginPage.enterUserName("shefi");
         loginPage.enterPassword("pass");
-        loginPage.clickLogin();
+        //loginPage.clickLogin();
         
     }
 }

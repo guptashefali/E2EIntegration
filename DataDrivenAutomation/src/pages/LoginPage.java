@@ -21,14 +21,14 @@ public class LoginPage {
 
     }
 
-    public void clickLogin() {
+    /*public void clickLogin() {
        // driver.findElement(By.xpath("//*[@id=\"u_0_8\"]")).click();
         driver.findElement(By.cssSelector("input[type='submit'][id='u_0_2']")).click();
-       /* WebElement element = driver.findElement(By.xpath("//*[@id=\"u_0_8\"]"));
+        WebElement element = driver.findElement(By.xpath("//*[@id=\"u_0_8\"]"));
 
         Actions actions = new Actions(driver);
 
-        actions.moveToElement(element).click().perform();*/
+        actions.moveToElement(element).click().perform();
     	
-    }
+    }*/
 }
