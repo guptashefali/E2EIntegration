@@ -2,23 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18716" started-at="2018-06-05T07:28:39Z" finished-at="2018-06-05T07:28:58Z">
+  <suite name="Default suite" duration-ms="28504" started-at="2018-06-15T09:18:27Z" finished-at="2018-06-15T09:18:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18716" started-at="2018-06-05T07:28:39Z" finished-at="2018-06-05T07:28:58Z">
+    <test name="Default test" duration-ms="28504" started-at="2018-06-15T09:18:27Z" finished-at="2018-06-15T09:18:56Z">
       <class name="testCases.TC_001_ValidateLoginFunctionality">
-        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:testCases.TC_001_ValidateLoginFunctionality@6093dd95]" name="initiateDriverInstance" is-config="true" duration-ms="15628" started-at="2018-06-05T07:28:39Z" finished-at="2018-06-05T07:28:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initiateDriverInstance -->
-        <test-method status="PASS" signature="loginFunctionality()[pri:0, instance:testCases.TC_001_ValidateLoginFunctionality@6093dd95]" name="loginFunctionality" duration-ms="2142" started-at="2018-06-05T07:28:55Z" finished-at="2018-06-05T07:28:57Z">
+        <test-method status="PASS" signature="loginFunctionality()[pri:0, instance:testCases.TC_001_ValidateLoginFunctionality@5b275dab]" name="loginFunctionality" duration-ms="28470" started-at="2018-06-15T09:18:28Z" finished-at="2018-06-15T09:18:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFunctionality -->
-        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:testCases.TC_001_ValidateLoginFunctionality@6093dd95]" name="closeDriverInstance" is-config="true" duration-ms="905" started-at="2018-06-05T07:28:57Z" finished-at="2018-06-05T07:28:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeDriverInstance -->
       </class> <!-- testCases.TC_001_ValidateLoginFunctionality -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
